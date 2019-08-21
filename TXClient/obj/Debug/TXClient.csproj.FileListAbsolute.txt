@@ -1,0 +1,72 @@
+C:\Users\didwh\source\repos\TXClient\TXClient\bin\Debug\TXClient.exe.config
+C:\Users\didwh\source\repos\TXClient\TXClient\bin\Debug\TXClient.exe
+C:\Users\didwh\source\repos\TXClient\TXClient\bin\Debug\TXClient.pdb
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.csprojAssemblyReference.cache
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.Form1.resources
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.Properties.Resources.resources
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.csproj.GenerateResource.cache
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.csproj.CoreCompileInputs.cache
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.exe
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.pdb
+C:\Users\didwh\source\repos\TXClient\TXClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.csproj.CopyComplete
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.ContentsForm.resources
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.KeyListForm.resources
+C:\Users\didwh\source\repos\TXClient\TXClient\obj\Debug\TXClient.KeyNameChange.resources
+C:\Users\didwh\source\repos\TXClient\TXClient\bin\Debug\Newtonsoft.Json.dll
+D:\TXClient\TXClient\bin\Debug\TXClient.exe.config
+D:\TXClient\TXClient\bin\Debug\TXClient.exe
+D:\TXClient\TXClient\bin\Debug\TXClient.pdb
+D:\TXClient\TXClient\bin\Debug\BouncyCastle.Crypto.dll
+D:\TXClient\TXClient\bin\Debug\Newtonsoft.Json.dll
+D:\TXClient\TXClient\obj\Debug\TXClient.csprojAssemblyReference.cache
+D:\TXClient\TXClient\obj\Debug\TXClient.ContentsForm.resources
+D:\TXClient\TXClient\obj\Debug\TXClient.Form1.resources
+D:\TXClient\TXClient\obj\Debug\TXClient.KeyListForm.resources
+D:\TXClient\TXClient\obj\Debug\TXClient.KeyNameChange.resources
+D:\TXClient\TXClient\obj\Debug\TXClient.Properties.Resources.resources
+D:\TXClient\TXClient\obj\Debug\TXClient.csproj.GenerateResource.cache
+D:\TXClient\TXClient\obj\Debug\TXClient.csproj.CoreCompileInputs.cache
+D:\TXClient\TXClient\obj\Debug\TXClient.csproj.CopyComplete
+D:\TXClient\TXClient\obj\Debug\TXClient.exe
+D:\TXClient\TXClient\obj\Debug\TXClient.pdb
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\bin\Debug\TXClient.exe.config
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\bin\Debug\TXClient.exe
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\bin\Debug\TXClient.pdb
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.csprojAssemblyReference.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.ContentsForm.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.KeyListForm.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.KeyNameChange.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.Properties.Resources.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.csproj.GenerateResource.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.csproj.CoreCompileInputs.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.csproj.CopyComplete
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.exe
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.pdb
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.loading.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\TXClient - (1)\TXClient\obj\Debug\TXClient.MainForms.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.csprojAssemblyReference.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.ContentsForm.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.MainForms.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.KeyListForm.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.KeyNameChange.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.loading.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.Properties.Resources.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.csproj.GenerateResource.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.csproj.CoreCompileInputs.cache
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.exe
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.pdb
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\TXClient.exe.config
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\TXClient.exe
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\TXClient.pdb
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.csproj.CopyComplete
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.PasswordForm.resources
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\MySql.Data.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\Google.Protobuf.dll
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\MySql.Data.xml
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\didwh\Desktop\새 폴더 (15)\GMB_Wallet(C#)\TXClient\obj\Debug\TXClient.KeyGen.resources
